@@ -5,7 +5,7 @@ int main()
 {
 cout<< "hell";
 cout<< "heaven";
-cout<<"b1 should be printed";
+cout<<"It should print b2";
 
 return 0;
 }
